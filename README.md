@@ -47,7 +47,7 @@ Dieses Projekt ist ein **Lern- und Demonstrationsprojekt** und zeigt die Umsetzu
 ---
 
 ## 👤 Autor  
-**[Yvan Zambou]**  
+**Yvan Zambou**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://linkedin.com/in/yvan-zambou-29aba9261)  
 [![GitHub](https://img.shields.io/badge/GitHub-Projekte-black?logo=github)](https://github.com/yvanzambou)  
