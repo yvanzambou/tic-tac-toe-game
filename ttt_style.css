@@ -1,0 +1,48 @@
+* {
+    font-family: "permanent Marker", cursive;
+    text-align: center;
+    background-color: #b7b7b7;
+}
+
+.tttTitle {
+    margin-bottom: 50px;
+}
+
+.tableContainer {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 312px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.tab {
+    width: 100px;
+    height: 100px;
+    border: 2px solid;
+    cursor: pointer;
+    box-shadow: 0 0 0 2px;
+}
+
+.x_hov:hover {
+    background-image: url('data:image/svg+xml,<svg width="100" height="100" opacity="0.2" xmlns="http://www.w3.org/2000/svg"> <line x1="10" y1="10" x2="90" y2="90" stroke="red" stroke-width="10" /> <line x1="10" y1="90" x2="90" y2="10" stroke="red" stroke-width="10" /> </svg>');
+}
+
+.o_hov:hover {
+    background-image: url('data:image/svg+xml,<svg height="100" width="100" opacity="0.2" xmlns="http://www.w3.org/2000/svg"><circle r="40" cx="50" cy="50" stroke="blue" stroke-width="10" fill="white" /></svg>');
+}
+
+.msg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.restart {
+    background-color: #116a08;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    color: white;
+}
